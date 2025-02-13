@@ -1,1 +1,1 @@
-# Linux-Jrney
+# Linux-Jurney
